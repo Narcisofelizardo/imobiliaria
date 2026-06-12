@@ -1,0 +1,154 @@
+{
+  "site": {
+    "nomeImobiliaria": "PrimeLar Imóveis",
+    "slogan": "Imóveis selecionados para viver e investir melhor",
+    "logo": "assets/logo.png",
+    "whatsapp": "5594999999999",
+    "telefone": "(94) 99999-9999",
+    "email": "contato@primelarimoveis.com.br",
+    "endereco": "Av. Principal, 1200 - Centro, Parauapebas - PA",
+    "desenvolvidoPor": "Desenvolvido por NSNexus",
+    "redesSociais": {
+      "instagram": "https://instagram.com/primelarimoveis",
+      "facebook": "https://facebook.com/primelarimoveis",
+      "linkedin": "https://linkedin.com/company/primelarimoveis"
+    }
+  },
+  "hero": {
+    "titulo": "Encontre o imóvel ideal para viver ou investir",
+    "subtitulo": "Casas, apartamentos e terrenos selecionados com atendimento rápido, seguro e personalizado.",
+    "imagem": "assets/hero.jpg"
+  },
+  "sobre": {
+    "imagem": "assets/equipe.jpg",
+    "titulo": "Atendimento premium do primeiro contato à assinatura",
+    "texto": "A PrimeLar Imóveis conecta pessoas aos melhores imóveis com curadoria, transparência e acompanhamento consultivo. Nossa equipe entende seu perfil, negocia com segurança e facilita cada etapa da compra, venda ou locação.",
+    "numeros": [
+      { "valor": "+500", "label": "imóveis anunciados" },
+      { "valor": "+10", "label": "anos de mercado" },
+      { "valor": "+1.000", "label": "clientes atendidos" },
+      { "valor": "24h", "label": "resposta via WhatsApp" }
+    ]
+  },
+  "imoveis": [
+    {
+      "id": 1,
+      "nome": "Casa Alto Padrão no Jardim Europa",
+      "tipo": "Venda",
+      "cidade": "Parauapebas",
+      "bairro": "Jardim Europa",
+      "precoCategoria": "alto",
+      "valor": "R$ 1.250.000",
+      "area": 286,
+      "quartos": 4,
+      "banheiros": 4,
+      "vagas": 3,
+      "imagem": "assets/imovel-1.jpg",
+      "destaque": "Piscina e área gourmet"
+    },
+    {
+      "id": 2,
+      "nome": "Apartamento Premium Vista Parque",
+      "tipo": "Venda",
+      "cidade": "Canaã dos Carajás",
+      "bairro": "Novo Horizonte",
+      "precoCategoria": "medio",
+      "valor": "R$ 680.000",
+      "area": 124,
+      "quartos": 3,
+      "banheiros": 2,
+      "vagas": 2,
+      "imagem": "assets/imovel-2.jpg",
+      "destaque": "Condomínio completo"
+    },
+    {
+      "id": 3,
+      "nome": "Residencial Jardins - Lançamento",
+      "tipo": "Lançamento",
+      "cidade": "Parauapebas",
+      "bairro": "Cidade Jardim",
+      "precoCategoria": "medio",
+      "valor": "A partir de R$ 420.000",
+      "area": 92,
+      "quartos": 2,
+      "banheiros": 2,
+      "vagas": 1,
+      "imagem": "assets/imovel-3.jpg",
+      "destaque": "Entrada facilitada"
+    },
+    {
+      "id": 4,
+      "nome": "Cobertura Duplex Vista Livre",
+      "tipo": "Venda",
+      "cidade": "Marabá",
+      "bairro": "Nova Marabá",
+      "precoCategoria": "alto",
+      "valor": "R$ 980.000",
+      "area": 210,
+      "quartos": 3,
+      "banheiros": 3,
+      "vagas": 2,
+      "imagem": "assets/imovel-4.jpg",
+      "destaque": "Varanda panorâmica"
+    },
+    {
+      "id": 5,
+      "nome": "Casa em Condomínio Reserva Verde",
+      "tipo": "Aluguel",
+      "cidade": "Parauapebas",
+      "bairro": "Beira Rio",
+      "precoCategoria": "medio",
+      "valor": "R$ 4.500/mês",
+      "area": 180,
+      "quartos": 3,
+      "banheiros": 3,
+      "vagas": 2,
+      "imagem": "assets/imovel-5.jpg",
+      "destaque": "Segurança 24h"
+    },
+    {
+      "id": 6,
+      "nome": "Studio Executivo Mobiliado",
+      "tipo": "Aluguel",
+      "cidade": "Canaã dos Carajás",
+      "bairro": "Centro",
+      "precoCategoria": "baixo",
+      "valor": "R$ 2.200/mês",
+      "area": 48,
+      "quartos": 1,
+      "banheiros": 1,
+      "vagas": 1,
+      "imagem": "assets/imovel-6.jpg",
+      "destaque": "Pronto para morar"
+    }
+  ],
+  "depoimentos": [
+    {
+      "nome": "Mariana Oliveira",
+      "cargo": "Compradora",
+      "avatar": "MO",
+      "comentario": "Fui atendida com muita agilidade e encontrei um apartamento exatamente dentro do que eu procurava.",
+      "estrelas": 5
+    },
+    {
+      "nome": "Carlos Mendes",
+      "cargo": "Investidor",
+      "avatar": "CM",
+      "comentario": "A equipe apresentou oportunidades muito boas e conduziu toda a negociação com segurança.",
+      "estrelas": 5
+    },
+    {
+      "nome": "Renata Dias",
+      "cargo": "Proprietária",
+      "avatar": "RD",
+      "comentario": "Anunciei meu imóvel e recebi contatos qualificados rapidamente. Recomendo o atendimento.",
+      "estrelas": 5
+    }
+  ],
+  "textos": {
+    "ctaTitulo": "Quer vender ou alugar seu imóvel mais rápido?",
+    "ctaTexto": "Anuncie conosco e conte com uma equipe especializada para encontrar o comprador ou inquilino ideal.",
+    "mensagemWhatsappGeral": "Olá! Vim pelo site da imobiliária e gostaria de falar com um consultor.",
+    "mensagemImovel": "Olá! Vim pelo site e tenho interesse no imóvel: [NOME DO IMÓVEL].\nGostaria de receber mais informações."
+  }
+}
